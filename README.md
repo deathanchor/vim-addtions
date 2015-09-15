@@ -2,7 +2,7 @@
 
 ## Overview
 
-Tools for making failed bash jobs easily alerting via nagios
+Vim settings and other nice things
 
 ## Authors
 
